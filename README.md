@@ -32,3 +32,7 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 ## Mods resources
 
 * [NexusMods - Cyberpunk 2077](https://www.nexusmods.com/cyberpunk2077)
+
+### Mods list
+
+* [Phantom Liberty exclusive items](https://www.nexusmods.com/cyberpunk2077/mods/9308)
