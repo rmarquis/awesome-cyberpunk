@@ -33,6 +33,14 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 
 * [NexusMods - Cyberpunk 2077](https://www.nexusmods.com/cyberpunk2077)
 
-### Mods list
+### Curated Mods list
 
+#### Official
 * [Phantom Liberty exclusive items](https://www.nexusmods.com/cyberpunk2077/mods/9308)
+* [Original Braindance animations](https://www.nexusmods.com/cyberpunk2077/mods/1919)
+
+#### Bug fixes
+* [Moon bug fix 2.0](https://www.nexusmods.com/cyberpunk2077/mods/9346)
+
+#### Various
+* [FreeFly (Noclip)](https://www.nexusmods.com/cyberpunk2077/mods/780)
