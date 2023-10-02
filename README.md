@@ -19,7 +19,11 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [ArchiveXL](https://github.com/psiberx/cp2077-archive-xl/) - Expand game resources without conflicts.
 * [Codeware](https://github.com/psiberx/cp2077-codeware) - Library and framework for creating redscript and CET mods.
 * [Red Hot Tools](https://github.com/psiberx/cp2077-red-hot-tools) - Plugin to help in mods development.
+
+### Framework
+
 * [Native Settings UI](https://github.com/justarandomguyintheinternet/CP77_nativeSettings) - Easily add settings menus using native UI.
+* [RadioExt](https://github.com/justarandomguyintheinternet/CP77_radioExt) - Easily add new radio stations.
 
 ### Resources
 
