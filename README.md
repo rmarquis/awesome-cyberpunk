@@ -49,6 +49,9 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [Don't Hide Stamina Bar on Holster](https://www.nexusmods.com/cyberpunk2077/mods/9448)
 * [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
+#### Systems
+* [Survival System](https://www.nexusmods.com/cyberpunk2077/mods/7510)
+
 #### Various
 * [Map Street View](https://www.nexusmods.com/cyberpunk2077/mods/9911)
 * [FreeFly (Noclip)](https://www.nexusmods.com/cyberpunk2077/mods/780)
