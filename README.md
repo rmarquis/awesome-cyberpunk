@@ -33,25 +33,27 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [Cyber Engine Tweaks Wiki](https://wiki.redmodding.org/cyber-engine-tweaks/)
 * [Redscript Wiki](https://wiki.redmodding.org/redscript)
 
-## Mods resources
+----
 
-* [NexusMods - Cyberpunk 2077](https://www.nexusmods.com/cyberpunk2077)
+## Curated Mods list
 
-### Curated Mods list
-
-#### Official
+### Official
 * [Phantom Liberty exclusive items](https://github.com/rmarquis/cp2077-freelies)
 * [Original Braindance animations](https://www.nexusmods.com/cyberpunk2077/mods/1919)
 
-#### Bug fixes
+### Bug fixes
 * [Loading Screen Fix](https://www.nexusmods.com/cyberpunk2077/mods/1568)
 * [Moon bug fix 2.0](https://www.nexusmods.com/cyberpunk2077/mods/9346)
 * [Don't Hide Stamina Bar on Holster](https://www.nexusmods.com/cyberpunk2077/mods/9448)
 * [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
-#### Systems
+### Mods
 * [Survival System](https://www.nexusmods.com/cyberpunk2077/mods/7510)
 
-#### Various
+### Various
 * [Map Street View](https://www.nexusmods.com/cyberpunk2077/mods/9911)
 * [FreeFly (Noclip)](https://www.nexusmods.com/cyberpunk2077/mods/780)
+
+## Resources
+
+* [NexusMods - Cyberpunk 2077](https://www.nexusmods.com/cyberpunk2077)
