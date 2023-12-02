@@ -50,4 +50,5 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
 #### Various
+* [Map Street View](https://www.nexusmods.com/cyberpunk2077/mods/9911)
 * [FreeFly (Noclip)](https://www.nexusmods.com/cyberpunk2077/mods/780)
