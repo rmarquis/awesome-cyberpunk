@@ -40,7 +40,7 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 ### Curated Mods list
 
 #### Official
-* [Phantom Liberty exclusive items](https://www.nexusmods.com/cyberpunk2077/mods/9308)
+* [Phantom Liberty exclusive items](https://github.com/rmarquis/cp2077-freelies)
 * [Original Braindance animations](https://www.nexusmods.com/cyberpunk2077/mods/1919)
 
 #### Bug fixes
