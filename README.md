@@ -46,6 +46,7 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [Moon bug fix 2.0](https://www.nexusmods.com/cyberpunk2077/mods/9346)
 * [Don't Hide Stamina Bar on Holster](https://www.nexusmods.com/cyberpunk2077/mods/9448)
 * [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
+* [Grammar of Night City](https://www.nexusmods.com/cyberpunk2077/mods/6776)
 
 ### Mods
 * [Survival System](https://www.nexusmods.com/cyberpunk2077/mods/7510)
