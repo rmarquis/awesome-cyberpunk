@@ -49,6 +49,7 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [Grammar of Night City](https://www.nexusmods.com/cyberpunk2077/mods/6776)
 
 ### Mods
+* [Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661)
 * [Survival System](https://www.nexusmods.com/cyberpunk2077/mods/7510)
 
 ### Various
