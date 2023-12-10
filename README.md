@@ -56,6 +56,7 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [Survival System](https://www.nexusmods.com/cyberpunk2077/mods/7510)
 * [Dynamic Moon Phases](https://www.nexusmods.com/cyberpunk2077/mods/2714)
 * [In-World Navigation](https://www.nexusmods.com/cyberpunk2077/mods/4583)
+* [Missing Persons - Fixer's Hidden Gems](https://www.nexusmods.com/cyberpunk2077/mods/5058)
 
 ### Various
 * [Map Street View](https://www.nexusmods.com/cyberpunk2077/mods/9911)
