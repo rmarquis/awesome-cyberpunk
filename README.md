@@ -15,7 +15,6 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 
 * [CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Tweaks, hacks and Lua scripting framework.
 * [Redscript](https://github.com/jac3km4/redscript) - Compiler/decompiler toolkit for redscript.
-* [cybercmd](https://github.com/jac3km4/cybercmd) - Compatibility layer between redscript and REDmod.
 * [RED4ext](https://github.com/WopsS/RED4ext) - Script extender for REDengine 4.
 * [TweakXL](https://github.com/psiberx/cp2077-tweak-xl) - Framework to modify TweakDB.
 * [ArchiveXL](https://github.com/psiberx/cp2077-archive-xl/) - Expand game resources without conflicts.
