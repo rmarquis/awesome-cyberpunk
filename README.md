@@ -28,6 +28,7 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [WolvenKit Wiki](https://wiki.redmodding.org/wolvenkit/)
 * [Cyber Engine Tweaks Wiki](https://wiki.redmodding.org/cyber-engine-tweaks/)
 * [Redscript Wiki](https://wiki.redmodding.org/redscript)
+* [RED4ext](https://wiki.redmodding.org/red4ext)
 
 ----
 
