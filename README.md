@@ -49,6 +49,7 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [Don't Hide Stamina Bar on Holster](https://www.nexusmods.com/cyberpunk2077/mods/9448)
 * [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 * [Grammar of Night City](https://www.nexusmods.com/cyberpunk2077/mods/6776)
+* [Immersion patch - The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413)
 
 ### Mods
 * [Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661)
