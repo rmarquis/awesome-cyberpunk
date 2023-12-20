@@ -63,6 +63,7 @@ A curated list of popular Cyberpunk 2077 and REDengine 4 related tools, resource
 * [Enable Finisher Ragdolls](https://www.nexusmods.com/cyberpunk2077/mods/9496)
 
 ### Various
+* [HD Reworked Project](https://www.nexusmods.com/cyberpunk2077/mods/7652)
 * [Map Street View](https://www.nexusmods.com/cyberpunk2077/mods/9911)
 * [FreeFly (Noclip)](https://www.nexusmods.com/cyberpunk2077/mods/780)
 
